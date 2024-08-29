@@ -34,7 +34,7 @@ Welcome to the Fastify.js Boilerplate! This project provides a solid foundation 
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
+   git clone (https://github.com/TahaAkber/Backend-Boiler-Plate.git)
    ```
 2. **Install dependencies:**
    ```bash
